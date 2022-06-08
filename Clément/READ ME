@@ -1,4 +1,6 @@
 Cassiopée Clément
 
-Le premier fichier "Cassiopée Clément" contient les premières études faites sur la base de données de Freezing Of Gait ainsi qu'une première classification
+Le premier fichier "Cassiopée" contient les premières études faites sur la base de données de Freezing Of Gait ainsi qu'une première classification
 qui n'a pas pu aboutir.
+
+Le deuxième fichier "Random Forest" contient l'algorithme des forêts aléatoires et les différents tests faits avec.
